@@ -191,6 +191,7 @@ void LOCK(cpu *core, short re1, short re2, short imme)
     sprintf(loc, "%d", imme);
     HANDLE lock = CreateMutex(NULL, FALSE, loc);
     WaitForSingleObject(lock, INFINITE);
+    CloseHandle(lock);
 }
 
 void RELEASE(cpu *core, short re1, short re2, short imme)
@@ -199,6 +200,7 @@ void RELEASE(cpu *core, short re1, short re2, short imme)
     sprintf(loc, "%d", imme);
     HANDLE lock = CreateMutex(NULL, FALSE, loc);
     ReleaseMutex(lock);
+    CloseHandle(lock);
 }
 
 void SLEEP(cpu *core, short re1, short re2, short imme)
