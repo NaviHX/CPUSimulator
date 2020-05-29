@@ -1,692 +1,814 @@
-### CORE : 2 ###
+id = 1
 ip = 4
 flag = 0
 ir = 336
 ax1 = 0 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
+id = 1
+ip = 8
+flag = 0
+ir = 3328
+ax1 = 0 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
+ip = 12
+flag = 0
+ir = 277
+ax1 = 10 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
+ip = 16
+flag = 1
+ir = 2320
+ax1 = 10 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
+ip = 20
+flag = 1
+ir = 2561
+ax1 = 10 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
+ip = 24
+flag = 1
+ir = 784
+ax1 = 9 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
+ip = 28
+flag = 1
+ir = 337
+ax1 = 9 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 2
 ip = 4
 flag = 0
 ir = 336
 ax1 = 0 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
+id = 1
+ip = 32
+flag = 1
+ir = 3584
+ax1 = 9 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 2
 ip = 8
 flag = 0
 ir = 3328
 ax1 = 0 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
-ip = 12
-flag = 0
-ir = 277
-ax1 = 10 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
-ip = 16
-flag = 1
-ir = 2320
-ax1 = 10 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
-ip = 20
-flag = 1
-ir = 2561
-ax1 = 10 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
-ip = 24
-flag = 1
-ir = 784
-ax1 = 9 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
-ip = 28
-flag = 1
-ir = 337
-ax1 = 9 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
-ip = 32
-flag = 1
-ir = 3584
-ax1 = 9 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
-ip = 8
-flag = 0
-ir = 3328
-ax1 = 0 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-out: 9
-### CORE : 1 ###
+id = 1  out: 9
+id = 2
 ip = 12
 flag = 0
 ir = 277
 ax1 = 9 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
+id = 1
 ip = 36
 flag = 1
 ir = 3088
 ax1 = 9 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
+id = 2
 ip = 16
 flag = 1
 ir = 2320
 ax1 = 9 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
+id = 2
 ip = 20
 flag = 1
 ir = 2561
 ax1 = 9 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
+id = 2
 ip = 24
 flag = 1
 ir = 784
 ax1 = 8 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
+id = 2
 ip = 28
 flag = 1
 ir = 337
 ax1 = 8 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
+id = 2
 ip = 32
 flag = 1
 ir = 3584
 ax1 = 8 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-out: 8
-### CORE : 1 ###
+id = 2  out: 8
+id = 2
 ip = 36
 flag = 1
 ir = 3088
 ax1 = 8 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
+id = 1
 ip = 40
 flag = 1
 ir = 3840
 ax1 = 9 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
-ip = 40
-flag = 1
-ir = 3840
-ax1 = 8 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
+id = 1
 ip = 4
 flag = 1
 ir = 2560
 ax1 = 9 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
-ip = 4
+id = 2
+ip = 40
 flag = 1
-ir = 2560
+ir = 3840
 ax1 = 8 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
+id = 1
 ip = 8
 flag = 1
 ir = 3328
 ax1 = 9 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
+id = 2
+ip = 4
+flag = 1
+ir = 2560
+ax1 = 8 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
 ip = 12
 flag = 1
 ir = 277
 ax1 = 8 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
-ip = 16
-flag = 1
-ir = 2320
-ax1 = 8 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
-ip = 20
-flag = 1
-ir = 2561
-ax1 = 8 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
-ip = 24
-flag = 1
-ir = 784
-ax1 = 7 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
-ip = 28
-flag = 1
-ir = 337
-ax1 = 7 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
-ip = 32
-flag = 1
-ir = 3584
-ax1 = 7 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
+id = 2
 ip = 8
 flag = 1
 ir = 3328
 ax1 = 8 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-out: 7
-### CORE : 1 ###
-ip = 12
-flag = 1
-ir = 277
-ax1 = 7 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
-ip = 36
-flag = 1
-ir = 3088
-ax1 = 7 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
+id = 1
 ip = 16
 flag = 1
 ir = 2320
-ax1 = 7 ax2 = 0 ax3 = 0 ax4 = 0
+ax1 = 8 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
-ip = 20
-flag = 1
-ir = 2561
-ax1 = 7 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
-ip = 24
-flag = 1
-ir = 784
-ax1 = 6 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
-ip = 28
-flag = 1
-ir = 337
-ax1 = 6 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
-ip = 32
-flag = 1
-ir = 3584
-ax1 = 6 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-out: 6
-### CORE : 1 ###
-ip = 36
-flag = 1
-ir = 3088
-ax1 = 6 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
-ip = 40
-flag = 1
-ir = 3840
-ax1 = 6 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
-ip = 40
-flag = 1
-ir = 3840
-ax1 = 7 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
-ip = 4
-flag = 1
-ir = 2560
-ax1 = 6 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
-ip = 4
-flag = 1
-ir = 2560
-ax1 = 7 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
-ip = 8
-flag = 1
-ir = 3328
-ax1 = 6 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
+id = 2
 ip = 12
 flag = 1
 ir = 277
-ax1 = 6 ax2 = 0 ax3 = 0 ax4 = 0
+ax1 = 8 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
-ip = 16
-flag = 1
-ir = 2320
-ax1 = 6 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
+id = 1
 ip = 20
 flag = 1
 ir = 2561
-ax1 = 6 ax2 = 0 ax3 = 0 ax4 = 0
+ax1 = 8 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
+id = 2
+ip = 16
+flag = 1
+ir = 2320
+ax1 = 8 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
 ip = 24
 flag = 1
 ir = 784
-ax1 = 5 ax2 = 0 ax3 = 0 ax4 = 0
+ax1 = 7 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
+id = 2
+ip = 20
+flag = 1
+ir = 2561
+ax1 = 8 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
 ip = 28
 flag = 1
 ir = 337
-ax1 = 5 ax2 = 0 ax3 = 0 ax4 = 0
+ax1 = 7 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
+id = 2
+ip = 24
+flag = 1
+ir = 784
+ax1 = 7 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
 ip = 32
 flag = 1
 ir = 3584
-ax1 = 5 ax2 = 0 ax3 = 0 ax4 = 0
+ax1 = 7 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-out: 5
-### CORE : 1 ###
+id = 2
+ip = 28
+flag = 1
+ir = 337
+ax1 = 7 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1  out: 7
+id = 2
+ip = 32
+flag = 1
+ir = 3584
+ax1 = 7 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
 ip = 36
 flag = 1
 ir = 3088
-ax1 = 5 ax2 = 0 ax3 = 0 ax4 = 0
+ax1 = 7 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
+id = 2  out: 7
+id = 2
+ip = 36
+flag = 1
+ir = 3088
+ax1 = 7 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
+ip = 40
+flag = 1
+ir = 3840
+ax1 = 7 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 2
+ip = 40
+flag = 1
+ir = 3840
+ax1 = 7 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
+ip = 4
+flag = 1
+ir = 2560
+ax1 = 7 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 2
+ip = 4
+flag = 1
+ir = 2560
+ax1 = 7 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
 ip = 8
 flag = 1
 ir = 3328
 ax1 = 7 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
+id = 1
+ip = 12
+flag = 1
+ir = 277
+ax1 = 7 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
+ip = 16
+flag = 1
+ir = 2320
+ax1 = 7 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
+ip = 20
+flag = 1
+ir = 2561
+ax1 = 7 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
+ip = 24
+flag = 1
+ir = 784
+ax1 = 6 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
+ip = 28
+flag = 1
+ir = 337
+ax1 = 6 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
+ip = 32
+flag = 1
+ir = 3584
+ax1 = 6 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1  out: 6
+id = 2
+ip = 8
+flag = 1
+ir = 3328
+ax1 = 7 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
+ip = 36
+flag = 1
+ir = 3088
+ax1 = 6 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 2
+ip = 12
+flag = 1
+ir = 277
+ax1 = 6 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 2
+ip = 16
+flag = 1
+ir = 2320
+ax1 = 6 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 2
+ip = 20
+flag = 1
+ir = 2561
+ax1 = 6 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 2
+ip = 24
+flag = 1
+ir = 784
+ax1 = 5 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 2
+ip = 28
+flag = 1
+ir = 337
+ax1 = 5 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 2
+ip = 32
+flag = 1
+ir = 3584
+ax1 = 5 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 2  out: 5
+id = 2
+ip = 36
+flag = 1
+ir = 3088
+ax1 = 5 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
+ip = 40
+flag = 1
+ir = 3840
+ax1 = 6 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 2
+ip = 40
+flag = 1
+ir = 3840
+ax1 = 5 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
+ip = 4
+flag = 1
+ir = 2560
+ax1 = 6 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 2
+ip = 4
+flag = 1
+ir = 2560
+ax1 = 5 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
+ip = 8
+flag = 1
+ir = 3328
+ax1 = 6 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
 ip = 12
 flag = 1
 ir = 277
 ax1 = 5 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
+id = 1
 ip = 16
 flag = 1
 ir = 2320
 ax1 = 5 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
+id = 1
 ip = 20
 flag = 1
 ir = 2561
 ax1 = 5 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
+id = 1
 ip = 24
 flag = 1
 ir = 784
 ax1 = 4 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
+id = 1
 ip = 28
 flag = 1
 ir = 337
 ax1 = 4 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
+id = 1
 ip = 32
 flag = 1
 ir = 3584
 ax1 = 4 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-out: 4
-### CORE : 2 ###
-ip = 36
-flag = 1
-ir = 3088
-ax1 = 4 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
-ip = 40
-flag = 1
-ir = 3840
-ax1 = 4 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
-ip = 40
-flag = 1
-ir = 3840
-ax1 = 5 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
-ip = 4
-flag = 1
-ir = 2560
-ax1 = 4 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
-ip = 4
-flag = 1
-ir = 2560
-ax1 = 5 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
-ip = 8
-flag = 1
-ir = 3328
-ax1 = 4 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
-ip = 12
-flag = 1
-ir = 277
-ax1 = 4 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
-ip = 16
-flag = 1
-ir = 2320
-ax1 = 4 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
-ip = 20
-flag = 1
-ir = 2561
-ax1 = 4 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
-ip = 24
-flag = 1
-ir = 784
-ax1 = 3 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
-ip = 28
-flag = 1
-ir = 337
-ax1 = 3 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
-ip = 32
-flag = 1
-ir = 3584
-ax1 = 3 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-out: 3
-### CORE : 2 ###
-ip = 36
-flag = 1
-ir = 3088
-ax1 = 3 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
+id = 1  out: 4
+id = 2
 ip = 8
 flag = 1
 ir = 3328
 ax1 = 5 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
-ip = 12
-flag = 1
-ir = 277
-ax1 = 3 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
-ip = 16
-flag = 1
-ir = 2320
-ax1 = 3 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
-ip = 20
-flag = 1
-ir = 2561
-ax1 = 3 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
-ip = 24
-flag = 1
-ir = 784
-ax1 = 2 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
-ip = 28
-flag = 1
-ir = 337
-ax1 = 2 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
-ip = 32
-flag = 1
-ir = 3584
-ax1 = 2 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-out: 2
-### CORE : 1 ###
+id = 1
 ip = 36
 flag = 1
 ir = 3088
-ax1 = 2 ax2 = 0 ax3 = 0 ax4 = 0
+ax1 = 4 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
+id = 2
+ip = 12
+flag = 1
+ir = 277
+ax1 = 4 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 2
+ip = 16
+flag = 1
+ir = 2320
+ax1 = 4 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 2
+ip = 20
+flag = 1
+ir = 2561
+ax1 = 4 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 2
+ip = 24
+flag = 1
+ir = 784
+ax1 = 3 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 2
+ip = 28
+flag = 1
+ir = 337
+ax1 = 3 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 2
+ip = 32
+flag = 1
+ir = 3584
+ax1 = 3 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 2  out: 3
+id = 2
+ip = 36
+flag = 1
+ir = 3088
+ax1 = 3 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
 ip = 40
 flag = 1
 ir = 3840
-ax1 = 2 ax2 = 0 ax3 = 0 ax4 = 0
+ax1 = 4 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
+id = 1
 ip = 4
 flag = 1
 ir = 2560
-ax1 = 2 ax2 = 0 ax3 = 0 ax4 = 0
+ax1 = 4 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
+id = 2
 ip = 40
 flag = 1
 ir = 3840
 ax1 = 3 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
-ip = 4
-flag = 1
-ir = 2560
-ax1 = 3 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
+id = 1
 ip = 8
 flag = 1
 ir = 3328
-ax1 = 2 ax2 = 0 ax3 = 0 ax4 = 0
+ax1 = 4 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
+id = 2
+ip = 4
+flag = 1
+ir = 2560
+ax1 = 3 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
 ip = 12
 flag = 1
 ir = 277
-ax1 = 2 ax2 = 0 ax3 = 0 ax4 = 0
+ax1 = 3 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
-ip = 16
-flag = 1
-ir = 2320
-ax1 = 2 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
-ip = 20
-flag = 1
-ir = 2561
-ax1 = 2 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
-ip = 24
-flag = 1
-ir = 784
-ax1 = 1 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
-ip = 28
-flag = 1
-ir = 337
-ax1 = 1 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
-ip = 32
-flag = 1
-ir = 3584
-ax1 = 1 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-out: 1
-### CORE : 1 ###
-ip = 36
-flag = 1
-ir = 3088
-ax1 = 1 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
+id = 2
 ip = 8
 flag = 1
 ir = 3328
 ax1 = 3 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
+id = 1
+ip = 16
+flag = 1
+ir = 2320
+ax1 = 3 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 2
+ip = 12
+flag = 1
+ir = 277
+ax1 = 3 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
+ip = 20
+flag = 1
+ir = 2561
+ax1 = 3 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 2
+ip = 16
+flag = 1
+ir = 2320
+ax1 = 3 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
+ip = 24
+flag = 1
+ir = 784
+ax1 = 2 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 2
+ip = 20
+flag = 1
+ir = 2561
+ax1 = 3 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
+ip = 28
+flag = 1
+ir = 337
+ax1 = 2 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 2
+ip = 24
+flag = 1
+ir = 784
+ax1 = 2 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
+ip = 32
+flag = 1
+ir = 3584
+ax1 = 2 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 2
+ip = 28
+flag = 1
+ir = 337
+ax1 = 2 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1  out: 2
+id = 2
+ip = 32
+flag = 1
+ir = 3584
+ax1 = 2 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
+ip = 36
+flag = 1
+ir = 3088
+ax1 = 2 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 2  out: 2
+id = 2
+ip = 36
+flag = 1
+ir = 3088
+ax1 = 2 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
+ip = 40
+flag = 1
+ir = 3840
+ax1 = 2 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
+ip = 4
+flag = 1
+ir = 2560
+ax1 = 2 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
+ip = 8
+flag = 1
+ir = 3328
+ax1 = 2 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
+ip = 12
+flag = 1
+ir = 277
+ax1 = 2 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
+ip = 16
+flag = 1
+ir = 2320
+ax1 = 2 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
+ip = 20
+flag = 1
+ir = 2561
+ax1 = 2 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 2
+ip = 40
+flag = 1
+ir = 3840
+ax1 = 2 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
+ip = 24
+flag = 1
+ir = 784
+ax1 = 1 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 2
+ip = 4
+flag = 1
+ir = 2560
+ax1 = 2 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
+ip = 28
+flag = 1
+ir = 337
+ax1 = 1 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 2
+ip = 8
+flag = 1
+ir = 3328
+ax1 = 2 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
+ip = 32
+flag = 1
+ir = 3584
+ax1 = 1 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 2
 ip = 12
 flag = 1
 ir = 277
 ax1 = 1 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
+id = 1  out: 1
+id = 2
 ip = 16
 flag = 1
 ir = 2320
 ax1 = 1 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
+id = 1
+ip = 36
+flag = 1
+ir = 3088
+ax1 = 1 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 2
 ip = 20
 flag = 1
 ir = 2561
 ax1 = 1 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
+id = 2
 ip = 24
 flag = 1
 ir = 784
 ax1 = 0 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
+id = 2
 ip = 28
 flag = 1
 ir = 337
 ax1 = 0 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
+id = 2
 ip = 32
 flag = 1
 ir = 3584
 ax1 = 0 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-out: 0
-### CORE : 2 ###
+id = 2  out: 0
+id = 2
 ip = 36
 flag = 1
 ir = 3088
 ax1 = 0 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
+id = 1
 ip = 40
 flag = 1
 ir = 3840
 ax1 = 1 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
+id = 1
 ip = 4
 flag = 1
 ir = 2560
 ax1 = 1 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
+id = 2
+ip = 40
+flag = 1
+ir = 3840
+ax1 = 0 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 2
+ip = 4
+flag = 1
+ir = 2560
+ax1 = 0 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
 ip = 8
 flag = 1
 ir = 3328
 ax1 = 1 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
+id = 1
 ip = 12
 flag = 1
 ir = 277
 ax1 = 0 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
+id = 1
 ip = 16
 flag = 0
 ir = 2320
 ax1 = 0 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
+id = 1
 ip = 44
 flag = 0
 ir = 2561
 ax1 = 0 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
-ip = 40
+id = 2
+ip = 8
 flag = 1
-ir = 3840
+ir = 3328
 ax1 = 0 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
+id = 2
+ip = 12
+flag = 1
+ir = 277
+ax1 = 0 ax2 = 0 ax3 = 0 ax4 = 0
+ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
+id = 1
 ip = 48
 flag = 0
 ir = 3584
 ax1 = 0 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
-ip = 4
-flag = 1
-ir = 2560
+id = 2
+ip = 16
+flag = 0
+ir = 2320
 ax1 = 0 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 1 ###
+id = 1
 ip = 52
 flag = 0
 ir = 0
 ax1 = 0 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
-ip = 8
-flag = 1
-ir = 3328
-ax1 = 0 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
-ip = 12
-flag = 1
-ir = 277
-ax1 = 0 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
-ip = 16
-flag = 0
-ir = 2320
-ax1 = 0 ax2 = 0 ax3 = 0 ax4 = 0
-ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
+id = 2
 ip = 44
 flag = 0
 ir = 2561
 ax1 = 0 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
+id = 2
 ip = 48
 flag = 0
 ir = 3584
 ax1 = 0 ax2 = 0 ax3 = 0 ax4 = 0
 ax5 = 16384 ax6 = 0 ax7 = 0 ax8 = 0
-### CORE : 2 ###
+id = 2
 ip = 52
 flag = 0
 ir = 0

@@ -4,7 +4,7 @@
 void printRegisterState(cpu *core)
 {
     int i;
-    printf("### CORE : %d ###\n", core->id);
+    printf("id = %d\n", core->id);
     printf("ip = %d\n", core->PC);
     printf("flag = %d\n", core->markerRegister);
     printf("ir = %d\n", core->orderRegister);
@@ -29,7 +29,7 @@ void output(cpu *core, short re1, short re2, short imme)
 {
     short *ptr = getPtr(core, re1);
     WaitForSingleObject(outputLock, INFINITE);
-    printf("out: %d\n", *ptr);
+    printf("id = %d  out: %d\n", core->id, *ptr);
     ReleaseMutex(outputLock);
 }
 
