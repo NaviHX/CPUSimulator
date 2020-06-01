@@ -23,6 +23,7 @@ typedef unsigned char BYTE;             //单字节模拟内存
 extern BYTE memory[dataOffset * 2 + 2]; //内存，多出两字节防止越界
 extern HANDLE core1, core2;             //线程的句柄
 extern HANDLE outputLock;               //防止输出混乱添加的互斥对象
+extern HANDLE memoryLock[maxOffset / 2];
 //cpu核心和寄存器结构体
 typedef struct CPU_info
 {

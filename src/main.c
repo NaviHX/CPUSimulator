@@ -7,13 +7,14 @@
 BYTE memory[dataOffset * 2 + 2]; //内存，多出两字节防止越界
 HANDLE core1, core2;             //线程的句柄
 HANDLE outputLock;               //防止输出混乱添加的互斥对象
+HANDLE memoryLock[maxOffset/2];
 
 int main()
 {
 
 #ifdef DEBUG
 
-    freopen("log", "w", stdout);//测试所用输出
+    freopen("log", "w", stdout); //测试所用输出
 
 #endif
 
@@ -30,6 +31,9 @@ int main()
     //初始化核心
     initCPU(cpu1, 1, "dict1.dic", 0);
     initCPU(cpu2, 2, "dict2.dic", 256);
+    //初始化内存锁
+    for (i = 0; i < maxOffset / 2; i++)
+        memoryLock[i] = CreateMutex(NULL, FALSE, NULL);
     //为了分辨输出而添加的锁
     outputLock = CreateMutex(NULL, FALSE, NULL);
     //建立线程

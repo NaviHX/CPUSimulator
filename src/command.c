@@ -187,20 +187,12 @@ void logicCalc(cpu *core, short re1, short re2, short imme, short order)
 
 void LOCK(cpu *core, short re1, short re2, short imme)
 {
-    char *loc = (char *)malloc(sizeof(char) * 16);
-    sprintf(loc, "%d", imme);
-    HANDLE lock = CreateMutex(NULL, FALSE, loc);
-    WaitForSingleObject(lock, INFINITE);
-    CloseHandle(lock);
+    WaitForSingleObject(memoryLock[imme - dataOffset],INFINITE);
 }
 
 void RELEASE(cpu *core, short re1, short re2, short imme)
 {
-    char *loc = (char *)malloc(sizeof(char) * 16);
-    sprintf(loc, "%d", imme);
-    HANDLE lock = CreateMutex(NULL, FALSE, loc);
-    ReleaseMutex(lock);
-    CloseHandle(lock);
+    ReleaseMutex(memoryLock[imme - dataOffset]);
 }
 
 void SLEEP(cpu *core, short re1, short re2, short imme)

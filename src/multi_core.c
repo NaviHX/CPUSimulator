@@ -11,7 +11,7 @@ void initCPU(cpu *core, short id, char *filename, short address)
     //将各寄存器归零
     core->markerRegister = 0;
     core->orderRegister = 0;
-    core->PC = 0;
+    core->PC = address;
     for (i = 0; i < 8; i++)
         core->gRegister[i] = 0;
 }
