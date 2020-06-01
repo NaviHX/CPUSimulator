@@ -1,10 +1,10 @@
 #include "sio.h"
-
+#include "command.h"
 //打印寄存器状态
 void printRegisterState(cpu *core)
 {
     int i;
-    printf("id = %d\n", core->id);
+    printf("==== id = %d ====\n", core->id);
     printf("ip = %d\n", core->PC);
     printf("flag = %d\n", core->markerRegister);
     printf("ir = %d\n", core->orderRegister);
@@ -16,6 +16,7 @@ void printRegisterState(cpu *core)
         else
             printf(" ");
     }
+    printf("\n");
 }
 //输入
 void input(cpu *core, short re1, short re2, short imme)
@@ -29,7 +30,7 @@ void output(cpu *core, short re1, short re2, short imme)
 {
     short *ptr = getPtr(core, re1);
     WaitForSingleObject(outputLock, INFINITE);
-    printf("id = %d  out: %d\n", core->id, *ptr);
+    printf("\n### id = %d  out: %d ###\n\n", core->id, *ptr);
     ReleaseMutex(outputLock);
 }
 
